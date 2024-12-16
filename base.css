@@ -1,0 +1,19 @@
+body {
+  background: #000;
+  font-size: 16px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+.page_container {
+  width: 14.4rem;
+  height: 100vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  position: relative;
+  background-color: #fff;
+
+}
